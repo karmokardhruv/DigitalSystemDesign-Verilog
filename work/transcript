@@ -1,0 +1,19 @@
+# Compile of SR_FF.v was successful.
+# Compile of SR_FF_TB.v was successful.
+vsim work.SR_FF_TB
+# vsim work.SR_FF_TB 
+# Start time: 18:42:19 on Nov 12,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.SR_FF_TB(fast)
+add wave -position insertpoint sim:/SR_FF_TB/*
+# ** UI-Msg: (vish-4014) No objects found matching '/SR_FF_TB/*'.
+vsim work.SR_FF
+# End time: 18:44:52 on Nov 12,2022, Elapsed time: 0:02:33
+# Errors: 0, Warnings: 7
+# vsim work.SR_FF 
+# Start time: 18:44:52 on Nov 12,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.SR_FF(fast)
+add wave -position insertpoint sim:/SR_FF/*
+# End time: 19:38:16 on Nov 12,2022, Elapsed time: 0:53:24
+# Errors: 0, Warnings: 1

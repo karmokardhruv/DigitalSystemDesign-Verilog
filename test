@@ -1,0 +1,5 @@
+module and_gateDF(Y,a,b);
+output Y;
+input a,b;
+assign Y=a&b;
+endmodule

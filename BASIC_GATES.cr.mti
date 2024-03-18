@@ -1,0 +1,11 @@
+C:/Users/dhruv/Documents/Verilog/xor_BM.v {0 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/xor_BM.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module xor_BM
+** Error (suppressible): C:/Users/dhruv/Documents/Verilog/xor_BM.v(7): (vlog-13299) Undefined variable: 'a'.
+** Error (suppressible): C:/Users/dhruv/Documents/Verilog/xor_BM.v(7): (vlog-13299) Undefined variable: 'b'.
+** Error: C:/Users/dhruv/Documents/Verilog/xor_BM.v(1): (vlog-2730) Undefined variable: 'a'.
+** Error: C:/Users/dhruv/Documents/Verilog/xor_BM.v(1): (vlog-13294) Identifier must be declared with a port mode: a.
+** Error: C:/Users/dhruv/Documents/Verilog/xor_BM.v(1): (vlog-2730) Undefined variable: 'b'.
+** Error: C:/Users/dhruv/Documents/Verilog/xor_BM.v(1): (vlog-13294) Identifier must be declared with a port mode: b.
+
+} {6.0 10.0} {}}

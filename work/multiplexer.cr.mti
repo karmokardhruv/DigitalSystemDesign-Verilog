@@ -1,0 +1,108 @@
+C:/Users/dhruv/Documents/Verilog/work/JK_ff_tb.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\JK_ff_tb.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module JK_ff_tb
+
+Top level modules:
+	JK_ff_tb
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/dec5x32.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\dec5x32.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module dec5x32
+
+Top level modules:
+	dec5x32
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/JK_ff.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\JK_ff.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module JK_ff
+
+Top level modules:
+	JK_ff
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/demux_1_to_4.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/demux_1_to_4.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module demux_1_to_4
+
+Top level modules:
+	demux_1_to_4
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/demultiplexer1_4.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/demultiplexer1_4.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module demultiplexer1_4
+
+Top level modules:
+	demultiplexer1_4
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/decoder5to32_2to4.v {0 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module decoder2_4
+-- Compiling module decoder5to32
+** Error: (vlog-13067) C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v(21:10): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v(21:11): Syntax error, unexpected non-printable character with the hex value '0x97'.
+** Error: (vlog-13069) C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v(21): near "2": syntax error, unexpected INTEGER NUMBER.
+** Error: C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v(21): (vlog-13205) Syntax error found in the scope following 'decoder2_4'. Is there a missing '::'?
+
+} {5.0 9.0} {}} C:/Users/dhruv/Documents/Verilog/work/multi_gate.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/multi_gate.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module multi_gate
+
+Top level modules:
+	multi_gate
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/multip_gate.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/multip_gate.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module multip_gate
+
+Top level modules:
+	multip_gate
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/top.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\top.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/multi_data.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/multi_data.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module multi_data
+
+Top level modules:
+	multi_data
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/SR_FF_TB.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\SR_ff_tb.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module SR_ff_tb
+
+Top level modules:
+	SR_ff_tb
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/sr_ff_beh.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\sr_ff_beh.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module sr_ff_beh
+
+Top level modules:
+	sr_ff_beh
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/sr_ff_test.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\sr_ff_test.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module sr_ff_test
+
+Top level modules:
+	sr_ff_test
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/SR_FF.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\SR_ff.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module SR_ff
+
+Top level modules:
+	SR_ff
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/decoder_3to8.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\decoder_3to8.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module decoder_3to8
+
+Top level modules:
+	decoder_3to8
+
+} {} {}}

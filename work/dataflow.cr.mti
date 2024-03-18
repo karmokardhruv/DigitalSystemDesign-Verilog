@@ -1,0 +1,36 @@
+C:/Users/dhruv/Documents/Verilog/work/not_data.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\not_data.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module not_data
+
+Top level modules:
+	not_data
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/or_data.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\or_data.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module or_data
+
+Top level modules:
+	or_data
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/xor_data.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\xor_data.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module xor_data
+
+Top level modules:
+	xor_data
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/and_data.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\and_data.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module and_data
+
+Top level modules:
+	and_data
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/xnor_data.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\xnor_data.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module xnor_data
+
+Top level modules:
+	xnor_data
+
+} {} {}}

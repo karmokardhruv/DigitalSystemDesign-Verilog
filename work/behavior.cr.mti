@@ -1,0 +1,36 @@
+C:/Users/dhruv/Documents/Verilog/work/and_behavior.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\and_behavior.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module and_behavior
+
+Top level modules:
+	and_behavior
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/xnor_behavior.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\xnor_behavior.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module xnor_behavior
+
+Top level modules:
+	xnor_behavior
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/not_behavior.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\not_behavior.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module not_behavior
+
+Top level modules:
+	not_behavior
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/or_behavior.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\or_behavior.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module or_behavior
+
+Top level modules:
+	or_behavior
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/xor_behavior.v {1 {vlog -work work -vopt -stats=none {C:\Users\dhruv\Documents\Verilog\work\xor_behavior.v}
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module xor_behavior
+
+Top level modules:
+	xor_behavior
+
+} {} {}}

@@ -1,0 +1,5 @@
+module not_gate(Y, a);
+output Y; 
+input a; 
+not a_1(Y,a); 
+endmodule

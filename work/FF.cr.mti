@@ -1,0 +1,71 @@
+C:/Users/dhruv/Documents/Verilog/work/Register4.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\Register4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Register4
+
+Top level modules:
+	Register4
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/SR_FF_TB.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\SR_ff_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SR_ff_tb
+
+Top level modules:
+	SR_ff_tb
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/JK_FF_TB.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\JK_ff_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JK_ff_tb
+
+Top level modules:
+	JK_ff_tb
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/half_adder_gate.v {1 {vlog -work work -stats=none C:/Users/dhruv/Documents/Verilog/work/half_adder_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module half_adder_gate
+
+Top level modules:
+	half_adder_gate
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/D_FF.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\D_FF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/T_FF.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\T_FF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module T_FF
+
+Top level modules:
+	T_FF
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/SR_FF.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\SR_ff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SR_ff
+
+Top level modules:
+	SR_ff
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/D_FF_TB.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\D_FF_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module D_FF_TB
+
+Top level modules:
+	D_FF_TB
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/JK_FF.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\JK_ff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JK_ff
+
+Top level modules:
+	JK_ff
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/T_FF_TB.v {1 {vlog -work work -stats=none {C:\Users\dhruv\Documents\Verilog\work\T_FF_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module T_FF_TB
+
+Top level modules:
+	T_FF_TB
+
+} {} {}}

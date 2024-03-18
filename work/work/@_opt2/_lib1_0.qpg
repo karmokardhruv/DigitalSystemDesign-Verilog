@@ -1,0 +1,657 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/intelFPGA/21.1
+T_opt1
+!s110 1668258740
+V8o^dJ[1;ZTGZT_<j7j1070
+04 8 4 work SR_FF_TB fast 0
+=1-002b672cc881-636f9bb4-12-4fd0
+!s124 OEM10U2 
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt1
+Z4 OL;O;2021.2;73
+R1
+T_opt2
+!s110 1668258893
+VUmf1VH_b[mcRUFO^_TB8i1
+04 5 4 work SR_FF fast 0
+=1-002b672cc881-636f9c4c-353-4c74
+!s124 OEM10U1 
+R2
+R3
+n@_opt2
+R4
+vand_behavior
+!s110 1662038941
+!i10b 1
+!s100 7`8EJil^@D@;;TInQ_=TU3
+I:c87SSbZYmfYG9HzdA87<3
+Z5 dC:/Users/dhruv/Documents/Verilog/work
+w1662019630
+8C:\Users\dhruv\Documents\Verilog\work\and_behavior.v
+FC:\Users\dhruv\Documents\Verilog\work\and_behavior.v
+!i122 20
+Z6 L0 1 14
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.2;73
+r1
+!s85 0
+31
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vand_data
+!s110 1661970048
+!i10b 1
+!s100 zbiIDcUl=8aWDzU^T>B061
+I^X;ZjcF@7FPVP>YiQ[MgA0
+R5
+w1661969208
+8C:\Users\dhruv\Documents\Verilog\work\and_data.v
+FC:\Users\dhruv\Documents\Verilog\work\and_data.v
+!i122 18
+Z10 L0 1 5
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vand_gate
+!s110 1661937004
+!i10b 1
+!s100 ^TW?]0OJ_`nQd8hJD;B9B2
+I=<X4=>WGL^1o4h5;T<0nX1
+R5
+w1661936495
+8C:\Users\dhruv\Documents\Verilog\work\and_gate.v
+FC:\Users\dhruv\Documents\Verilog\work\and_gate.v
+!i122 6
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vand_gateDM
+!s110 1661673003
+!i10b 1
+!s100 0B:>@Ole?fAe5ePM6_NXz0
+IA5_LKAn]<[oIG2CDAW9X@2
+R5
+w1661672992
+8C:\Users\dhruv\Documents\Verilog\work\and_gateDM.v
+FC:\Users\dhruv\Documents\Verilog\work\and_gateDM.v
+!i122 1
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+nand_gate@d@m
+vdec5x32
+!s110 1668049450
+!i10b 1
+!s100 GdzU5A>gTl;RzkMak8>TC1
+IONBPFd<O;AC6Hz]UPBmF60
+R5
+w1668049440
+8C:\Users\dhruv\Documents\Verilog\work\dec5x32.v
+FC:\Users\dhruv\Documents\Verilog\work\dec5x32.v
+!i122 59
+L0 1 36
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdecoder2_4
+!s110 1668011607
+!i10b 1
+!s100 5NL]nh3L1X@z>G`A0mDQ53
+IZn^E]>i=?9HZ[1IjOnJcl3
+R5
+w1668011600
+Z11 8C:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v
+Z12 FC:\Users\dhruv\Documents\Verilog\work\decoder5to32_2to4.v
+!i122 53
+Z13 L0 1 12
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdecoder5to32
+!s110 1668011472
+!i10b 1
+!s100 B=2a`m7i[9fhNgoK?aEoY2
+IAlmEz79eEEY48ceIAezFR2
+R5
+w1668011468
+R11
+R12
+!i122 52
+Z14 L0 14 17
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdecoder5to32_2to4
+!s110 1668011039
+!i10b 1
+!s100 C@QJa?`9U8ZeRZBBaK_0D1
+I]O^6:fcXg?2WF60m2CYX13
+R5
+w1668011027
+R11
+R12
+!i122 48
+R14
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdecoder_3to8
+!s110 1668016940
+!i10b 1
+!s100 =?hD[ce8]:gkloFMaaIQ?2
+I_mDBS9W=Al?S@zKS:=n7d1
+R5
+w1667982601
+8C:\Users\dhruv\Documents\Verilog\work\decoder_3to8.v
+FC:\Users\dhruv\Documents\Verilog\work\decoder_3to8.v
+!i122 55
+R13
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdemultiplexer1_4
+Z15 !s110 1667982571
+!i10b 1
+!s100 _iOUlbVWMbMT[lln>egoZ0
+IbREk1NTQjTJcnnG82U9UZ3
+R5
+w1665371792
+8C:/Users/dhruv/Documents/Verilog/work/demultiplexer1_4.v
+FC:/Users/dhruv/Documents/Verilog/work/demultiplexer1_4.v
+!i122 41
+Z16 L0 1 8
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vdemux_1_to_4
+R15
+!i10b 1
+!s100 M<Tac1FAbbg=CHHmiDHNm3
+I4kCAGM:JWV`kGXL]d9VXl0
+R5
+w1665386514
+8C:/Users/dhruv/Documents/Verilog/work/demux_1_to_4.v
+FC:/Users/dhruv/Documents/Verilog/work/demux_1_to_4.v
+!i122 42
+Z17 L0 1 6
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vfa_data
+!s110 1662288899
+!i10b 1
+!s100 iWa[=;nON:_?[<@D4Oh`_3
+IUT@QfRJEa[jo84_g:KM_i0
+R5
+w1662288894
+8C:\Users\dhruv\Documents\Verilog\work\fa_data.v
+FC:\Users\dhruv\Documents\Verilog\work\fa_data.v
+!i122 26
+R17
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vfs_data
+!s110 1662293323
+!i10b 1
+!s100 4RMK`b58TGaKG2_ZeLd=S2
+IeNGkCM40]0c6g3NmZk9TM2
+R5
+w1662293317
+8C:\Users\dhruv\Documents\Verilog\work\fs_data.v
+FC:\Users\dhruv\Documents\Verilog\work\fs_data.v
+!i122 28
+R17
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vha_data
+!s110 1662287280
+!i10b 1
+!s100 T_Na;0m5je@`DzHXnJH8W1
+I?P_=fj9f0GYj@^^jjBaMh2
+R5
+w1662287264
+8C:\Users\dhruv\Documents\Verilog\work\ha_data.v
+FC:\Users\dhruv\Documents\Verilog\work\ha_data.v
+!i122 25
+R17
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vhs_data
+!s110 1662292105
+!i10b 1
+!s100 5eNZg]<j1cYXOGzngzz_e2
+ISNWLgl?oo_0j_N^I?hlJT0
+R5
+w1662292093
+8C:\Users\dhruv\Documents\Verilog\work\hs_data.v
+FC:\Users\dhruv\Documents\Verilog\work\hs_data.v
+!i122 27
+R17
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vJK_ff
+Z18 !s110 1668178945
+!i10b 1
+!s100 E[^KbgSzF_5KHYHKeV>2o1
+I7XnJRiFzRo7g^^3<0nJQG3
+R5
+w1668178886
+8C:\Users\dhruv\Documents\Verilog\work\JK_ff.v
+FC:\Users\dhruv\Documents\Verilog\work\JK_ff.v
+!i122 78
+L0 1 28
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+n@j@k_ff
+vJK_ff_tb
+R18
+!i10b 1
+!s100 ;@DO[92Al>;_0>USmCXg61
+IJlNcYN<RmbhIPI:PXPj3K3
+R5
+w1668178937
+8C:\Users\dhruv\Documents\Verilog\work\JK_ff_tb.v
+FC:\Users\dhruv\Documents\Verilog\work\JK_ff_tb.v
+!i122 79
+Z19 L0 1 48
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+n@j@k_ff_tb
+vmulti_data
+R15
+!i10b 1
+!s100 dz_;lHQT:4cfalO@Jk[l[3
+IzT3IR`d?jQH6l9h7N:Ll]0
+R5
+w1664709123
+8C:/Users/dhruv/Documents/Verilog/work/multi_data.v
+FC:/Users/dhruv/Documents/Verilog/work/multi_data.v
+!i122 39
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vmulti_gate
+R15
+!i10b 1
+!s100 8Y7PznKGb`bgea1<cCz481
+I_Ej4Om23A8:C=]m<?khMh1
+R5
+w1664709735
+8C:/Users/dhruv/Documents/Verilog/work/multi_gate.v
+FC:/Users/dhruv/Documents/Verilog/work/multi_gate.v
+!i122 38
+R16
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vmultip_gate
+R15
+!i10b 1
+!s100 4`bCMLU13fN:e8Y7U`B5>0
+INDa8gfhnDzc;7g:lFZBIG2
+R5
+w1664761621
+8C:/Users/dhruv/Documents/Verilog/work/multip_gate.v
+FC:/Users/dhruv/Documents/Verilog/work/multip_gate.v
+!i122 40
+L0 1 10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vnot_behavior
+!s110 1662039350
+!i10b 1
+!s100 n?^VW4?fX]>iZc4HlHWOD2
+IzX?E4a27l2OT]if^QLeQ12
+R5
+w1662039343
+8C:\Users\dhruv\Documents\Verilog\work\not_behavior.v
+FC:\Users\dhruv\Documents\Verilog\work\not_behavior.v
+!i122 21
+R13
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vnot_data
+Z20 !s110 1661969951
+!i10b 1
+!s100 OTha_kG5_S[XC2COd<1XL2
+I5OETD`lgn7kc6SQ;2jL=13
+R5
+w1661969784
+8C:\Users\dhruv\Documents\Verilog\work\not_data.v
+FC:\Users\dhruv\Documents\Verilog\work\not_data.v
+!i122 13
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vnot_gates
+!s110 1661937228
+!i10b 1
+!s100 kR:n]:3_LYTQD1oGkK8L>2
+I<b?Nz2gAiK?DmoAl>`GcP2
+R5
+w1661937134
+8C:\Users\dhruv\Documents\Verilog\work\not_gates.v
+FC:\Users\dhruv\Documents\Verilog\work\not_gates.v
+!i122 8
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vor_behavior
+!s110 1662039809
+!i10b 1
+!s100 HM1EjDA6L2k6;3GM0YKo13
+ITiFPIXT@H5MekXnE47B5G1
+R5
+w1662039793
+8C:\Users\dhruv\Documents\Verilog\work\or_behavior.v
+FC:\Users\dhruv\Documents\Verilog\work\or_behavior.v
+!i122 22
+R6
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vor_data
+R20
+!i10b 1
+!s100 FOgCRb[FhcZ;nX]F0nkfl2
+IoK<fO:?8zTIO5h[G]iBWz0
+R5
+w1661969830
+8C:\Users\dhruv\Documents\Verilog\work\or_data.v
+FC:\Users\dhruv\Documents\Verilog\work\or_data.v
+!i122 14
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vor_gate
+!s110 1661937464
+!i10b 1
+!s100 YCMLJ<I>Fch<C1fkYZfZz3
+IzTIkMA1a>LP[gMB0C=fde2
+R5
+w1661937452
+8C:\Users\dhruv\Documents\Verilog\work\or_gate.v
+FC:\Users\dhruv\Documents\Verilog\work\or_gate.v
+!i122 9
+R10
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vSR_ff
+!s110 1668177554
+!i10b 1
+!s100 iR>KZNkHkC4hhz?AzfRJM3
+IO8S5M1_GzS7QP8CU8EX>81
+R5
+w1668177528
+Z21 8C:\Users\dhruv\Documents\Verilog\work\SR_ff.v
+Z22 FC:\Users\dhruv\Documents\Verilog\work\SR_ff.v
+!i122 76
+L0 1 29
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+n@s@r_ff
+vSR_FF
+!s110 1668258689
+!i10b 1
+!s100 Cd0<C]OUEG4`[KZ7>]kzZ2
+IREjmgG;_3DiXfGfH4T3Yb1
+R5
+w1668258681
+R21
+R22
+!i122 93
+L0 1 15
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+n@s@r_@f@f
+vsr_ff_beh
+!s110 1668177016
+!i10b 1
+!s100 UVQg_DfSSBSa@G6D`_ND[3
+I@;eX]Q;efzR<4co1:2EM;2
+R5
+w1668176981
+8C:\Users\dhruv\Documents\Verilog\work\sr_ff_beh.v
+FC:\Users\dhruv\Documents\Verilog\work\sr_ff_beh.v
+!i122 74
+R6
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+vSR_FF_TB
+!s110 1668258715
+!i10b 1
+!s100 `@QOc@kV<fhiX^F_Xi<5i2
+IG6US21W3i4FThU[jPX1gL2
+R5
+w1668258710
+Z23 8C:\Users\dhruv\Documents\Verilog\work\SR_ff_tb.v
+Z24 FC:\Users\dhruv\Documents\Verilog\work\SR_ff_tb.v
+!i122 94
+R6
+R7
+R8
+r1
+!s85 0
+31
+!i113 0
+R9
+R3
+n@s@r_@f@f_@t@b
+vSR_ff_tb

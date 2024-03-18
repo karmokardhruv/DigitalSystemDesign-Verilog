@@ -1,0 +1,15 @@
+C:/Users/dhruv/Documents/Verilog/work/SR_Flipflop_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/SR_Flipflop_tb.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module SR_Flipflop_tb
+
+Top level modules:
+	SR_Flipflop_tb
+
+} {} {}} C:/Users/dhruv/Documents/Verilog/work/SR_Flipflop.v {1 {vlog -work work -vopt -stats=none C:/Users/dhruv/Documents/Verilog/work/SR_Flipflop.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module SR_Flipflop
+
+Top level modules:
+	SR_Flipflop
+
+} {} {}}
